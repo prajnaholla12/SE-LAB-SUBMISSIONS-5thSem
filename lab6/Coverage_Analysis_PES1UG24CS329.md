@@ -1,6 +1,6 @@
 # Lab 6 Coverage Analysis
 
-**Student:** PES1UG24CS329  
+**Student:** PES1UG24CS329 | Prajna Holla 
 **Application:** `pizza_order.py`
 
 ## Purpose
